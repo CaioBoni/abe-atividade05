@@ -1,0 +1,3 @@
+br\com\gateway\config\SwaggerConfig.class
+br\com\gateway\SimpleFilter.class
+br\com\gateway\GatewayApplication.class
